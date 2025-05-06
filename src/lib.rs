@@ -1,7 +1,5 @@
 use reqwest::{Client, Error};
-use serde::{Deserialize, Serialize};
 use serde_json::Value;
-use tokio;
 
 const BASE_URL: &str = "https://api.shodan.io";
 
