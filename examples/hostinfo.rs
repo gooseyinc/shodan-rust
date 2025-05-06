@@ -1,4 +1,4 @@
-use shodan::ShodanClient;
+use shodan_rust::ShodanClient;
 
 #[tokio::main]
 async fn main() {

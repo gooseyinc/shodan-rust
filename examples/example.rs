@@ -1,4 +1,4 @@
-use shodan::{get_host_info, search_shodan, get_honeyscore};
+use shodan_rust::{get_host_info, search_shodan, get_honeyscore};
 use serde_json::Value;
 
 #[tokio::main]
