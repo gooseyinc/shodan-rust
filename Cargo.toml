@@ -1,7 +1,16 @@
 [package]
 name = "shodan"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+authors = ["Ozgur <ozgur@goosey.org>"]
+description = "An async Shodan API client written in Rust"
+license = "MIT"
+repository = "https://github.com/gooseyinc/shodan-rust"
+readme = "README.md"
+keywords = ["shodan", "cybersecurity", "api", "client", "rust"]
+categories = ["api-bindings", "network-programming"]
+documentation = "https://docs.rs/shodan"
+homepage = "https://github.com/gooseyinc/shodan-rust"
 
 [dependencies]
 reqwest = { version = "0.11", features = ["json", "rustls-tls"] }
