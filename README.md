@@ -26,14 +26,14 @@
 
 ```toml
 [dependencies]
-shodan = { git = "https://github.com/YOUR_USERNAME/shodan-rust" }
+shodan-rust = { git = "https://github.com/gooseyinc/shodan-rust" }
 tokio = { version = "1", features = ["full"] }
 ```
 
 ### Example
 
 ```rust
-use shodan::ShodanClient;
+use shodan_rust::ShodanClient;
 
 #[tokio::main]
 async fn main() {
