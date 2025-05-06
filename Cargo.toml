@@ -1,6 +1,6 @@
 [package]
 name = "shodan-rust"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2024"
 authors = ["Ozgur <ozgur@goosey.org>"]
 description = "An async Shodan API client written in Rust"
@@ -9,7 +9,7 @@ repository = "https://github.com/gooseyinc/shodan-rust"
 readme = "README.md"
 keywords = ["shodan", "cybersecurity", "api", "client", "rust"]
 categories = ["api-bindings", "network-programming"]
-documentation = "https://docs.rs/shodan"
+documentation = "https://docs.rs/shodan-rust"
 homepage = "https://github.com/gooseyinc/shodan-rust"
 
 [dependencies]

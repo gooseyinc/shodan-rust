@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/Rust-Async-orange)](https://www.rust-lang.org/)
-[![Build](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/shodan-rust/ci.yml?branch=main)](https://github.com/YOUR_USERNAME/shodan-rust/actions)
+[![Build](https://img.shields.io/github/actions/workflow/status/gooseyinc/shodan-rust/ci.yml?branch=main)](https://github.com/gooseyinc/shodan-rust/actions)
 
 `shodan-rust` is a lightweight and modern Rust crate for accessing Shodan's powerful search capabilities over the internet of things.
 
